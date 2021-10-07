@@ -1,0 +1,23 @@
+{
+  "name": "jour-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EloiGry/Jour-8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EloiGry/Jour-8/issues"
+  },
+  "homepage": "https://github.com/EloiGry/Jour-8#readme",
+  "dependencies": {
+    "prompt": "^1.2.0",
+    "random-word-fr": "^1.0.3"
+  }
+}
